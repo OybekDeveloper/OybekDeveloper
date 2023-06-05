@@ -12,6 +12,7 @@
 <h2>Hello, my name is Oybek Bakhtiyorov. Here you can see all my web programming work and projects:unlock:. You can easily get the information you need.
   
 <br/>
+  <br>
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
