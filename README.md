@@ -18,14 +18,15 @@
   <br>
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-📈 my github stats
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=DeveloperOybek&show_icons=true&theme=gotham" alt="DeveloperOybek" />
+  <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <br>
+  <h2>
+📈 my github stats<h2/>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DeveloperOybek&show_icons=true&theme=gotham" alt="DeveloperOybek" />
 
 <br/>
   <br/>
-<p align="left" width=""500> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oybekdeveloper" alt="oybekdeveloper" /></a> </p>
+<p align="center" width=""500> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oybekdeveloper" alt="oybekdeveloper" /></a> </p>
 
 
 
