@@ -25,7 +25,7 @@
 
 <br/>
   <br/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oybekdeveloper" alt="oybekdeveloper" /></a> </p>
+<p align="left" width=""500> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oybekdeveloper" alt="oybekdeveloper" /></a> </p>
 
 
 
