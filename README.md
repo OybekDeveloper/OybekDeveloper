@@ -22,9 +22,9 @@
   
 📈 my github stats
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=DeveloperOybek&show_icons=true&theme=gotham" alt="DeveloperOybek" />
-  <h3 align="center">A passionate frontend developer from India</h3>
 
-
+<br/>
+  <br/>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oybekdeveloper" alt="oybekdeveloper" /></a> </p>
 
 
