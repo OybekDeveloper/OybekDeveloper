@@ -9,7 +9,8 @@
   <img align="left" alt="Oybek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br/>
-<h2>Hello, my name is Oybek Bakhtiyorov. Here you can see all my web programming work and projects:unlock:. You can easily get the information you need.
+<h2>Hello, my name is Oybek Bakhtiyorov. Here you can see all my web programming work and projects. You can easily get the information you need:unlock:.
+  <br>:email:My email is: programmerroybek211@gmail.com
   
 <br/>
   <br>
