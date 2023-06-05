@@ -22,7 +22,7 @@
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 📈 my github stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DeveloperOybek&show_icons=true&theme=gotham" alt="DeveloperOybek" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=DeveloperOybek&show_icons=true&theme=gotham" alt="DeveloperOybek" />
   <h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
